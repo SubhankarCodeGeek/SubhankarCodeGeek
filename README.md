@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SubhankarCodeGeek
+- 👋 Hi, I’m @SubhankarCodeGeek from India 🇮🇳
+- 💚 Senior Android Developer | I'm love with problem sloving and Android 💚 as well. 
 - 👀 I’m interested in Kotlin, Java, Dart, Flutter, JavaScript, Go, C++, C#
 - 🌱 I’m currently learning Flutter, Dart
 - 💞️ I’m looking to collaborate on Kotlin language, Flutter framework
